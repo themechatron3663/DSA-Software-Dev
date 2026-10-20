@@ -4,6 +4,10 @@ const name = ["John", "Doe", "Peace", "Treasure", "Maurice",
 "Queen", "David", "Abigail", "Solomon", "Eve",
 "Wisdom", "King", "Grace", "Faith", "Mercy",
 "Jane", "Smith", "Alice", "Johnson", "Bob", "Brown",
+"Owen", "Grace", "Faith", "Mercy", "Hope", "Phoebe"
+"Queen", "David", "Abigail", "Solomon", "Eve",
+"Wisdom", "King", "Grace", "Faith", "Mercy",
+"Jane", "Smith", "Alice", "Johnson", "Bob", "Brown",
 ]
 
 console.log(name); 
